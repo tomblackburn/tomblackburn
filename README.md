@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,bash,js,rust,sqlite,vim,docker,git>
+    <img src="https://skillicons.dev/icons?i=py,go,bash,js,rust,sqlite,vim,docker,git" />
   </a>
 </p>

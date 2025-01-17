@@ -26,6 +26,10 @@ Here are some ideas to get you started:
   - [hello.tomblackburn@icloud.com](mailto:hello.tomblackburn@icloud.com)
   - [LinkedIn](https://uk.linkedin.com/in/tomblackburn/)
 
+![](https://raw.githubusercontent.com/tomblackburne/github-status-tomblackburn/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tomblackburn/github-status-tomblackburn/master/generated/languages.svg#gh-light-mode-only)
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,bash,js,rust,sqlite,vim,docker,git" />

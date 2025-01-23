@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXd3ZThtNWhlZWZlaGgyZDR1b3E5ajd2NWZldWFneWN5cTFnMmN1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif' width='200'>
 
-
-## 👋 Hey there! I'm Tom Blackburn
-
 Just a middle-aged dude on an exciting journey of continuous learning, coding, problem-solving, and crafting beautiful things. Whether it's lines of code or tinkering with ideas sitting at my desk fueled by coffee ☕ and accompanied by my keyboard (a Unicomp Model M buckling spring 🤏)
 
 ## 🔭 **Back in my day...**  
